@@ -7,6 +7,8 @@ I am currently a CTO with hands-on interests in AI systems, developer tooling, a
 ## Projects
 
 ### NEZERUS
+
+Websites: [nezerus.com](https://nezerus.com) · [nezerus.ru](https://nezerus.ru)
 An AI-related project I work on as part of my technology leadership and engineering activities.
 
 *The project's architecture, capabilities, and commercial outcomes are not described here because they have not been independently verified for this public profile.*
